@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Gabriel Melo Batista</h1>
-<h3 align="center">A developer student from Brazil</h3>
+<h3 align="center">A software development student from Brazil </h3>
 
 <p align="left"> <a href="https://twitter.com/surlka" target="blank"><img src="https://img.shields.io/twitter/follow/surlka?logo=twitter&style=for-the-badge" alt="surlka" /></a> </p>
 

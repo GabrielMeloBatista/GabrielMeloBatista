@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a Brazillian student<br><br>In the moment, I'm learning C#.<br><br>I have experince with angular, react, next.js in frontend and java, C/C++, Python in backend<br><br>I'm kind of a fullstack developer<br><br>Learning agille.<br>
+Just a Brazillian student<br><br>In the moment, I'm learning C#.<br><br>I have experince with angular, react, next.js in frontend and java, C/C++, Python in backend<br><br>I'm kind of a fullstack developer<br><br>Learning agile.<br>
 
 
 ## 🌐 Socials:

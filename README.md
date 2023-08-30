@@ -20,9 +20,9 @@ Just a Brazillian student<br><br>In the moment, I'm learning C#.<br><br>I have e
 
 ## 🖥️ Setup
 
-![CPU](https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)<br/>
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-RAM: 2x8G
+[![CPU](https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/pt/products/graphics/amd-radeon-rx-6500-xt)<br/>
+[![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6500_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/pt/support/apu/amd-ryzen-processors/amd-ryzen-3-desktop-processors-radeon-vega-graphics/amd-ryzen-3-1)<br/>
+[![RAM: 2x8G](https://img.shields.io/badge/AMD-RAM_2X8G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gabrielmelobatista&icon=0&color=1)](https://visitcount.itsvg.in)
